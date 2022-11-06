@@ -1,6 +1,6 @@
 ---
 title: seconddecade
-layout: seconddecade
+layout: default
 ---
 
 # chapter

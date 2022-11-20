@@ -4,9 +4,9 @@ layout: default
 ---
 
 # chapter
-## Schule
+## Schule Christoph Scheiner Gymnasium Ingolstadt
 ## Studium
-### Duale Hochschule Baden-Würtemberg Maschinenbau: Konstruktion und Ingenieurinformatik
-### Wirtschaftsingenieurwesen (Schwerpunkt Wirtschaftsinformatik Systementwicklung und Datenbanken)
-### 
-##M
+### Diplom Maschinenbau (Konstruktion und Ingenieurinformatik), Duale Hochschule Baden-Würtemberg (Campus Mosbach)
+### Diplom Wirtschaftsingenieurwesen Fachhochschule für Technik Esslingen (Schwerpunkt Wirtschaftsinformatik Systementwicklung und Datenbanken)
+### Master in Wirtschaftsinformatik Universtität Bamberg
+

@@ -6,8 +6,8 @@ layout: default
 # chapter
 ## Studium
 ### Diplom Maschinenbau (Konstruktion und Ingenieurinformatik), Duale Hochschule Baden-Würtemberg (Campus Mosbach)
-### Diplom Wirtschaftsingenieurwesen Fachhochschule für Technik Esslingen (Schwerpunkt Wirtschaftsinformatik Systementwicklung und Datenbanken)
-### Master in Wirtschaftsinformatik Universität Bamberg
+### Diplom Wirtschaftsingenieurwesen (Schwerpunkt Wirtschaftsinformatik Systementwicklung und Datenbanken), Fachhochschule für Technik Esslingen
+### Master in Wirtschaftsinformatik, Universität Bamberg
 ## Beruf
 ### KUKA Augsburg
 Technischer Softwareentwickler
